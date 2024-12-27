@@ -17,5 +17,4 @@ function majorityElement(arr) {
     return candidate;
 }
 
-const input = [2, 1, 2];
-console.log(majorityElement(input));
+module.exports = majorityElementChecker;
