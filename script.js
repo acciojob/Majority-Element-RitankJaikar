@@ -17,4 +17,4 @@ function majorityElement(arr) {
     return candidate;
 }
 
-module.exports = majorityElementChecker;
+module.exports = majorityElement;
